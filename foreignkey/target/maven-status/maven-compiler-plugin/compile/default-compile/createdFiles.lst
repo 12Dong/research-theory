@@ -1,0 +1,13 @@
+com/qiqu/jooq/common/generated/tables/Good.class
+com/qiqu/jooq/common/generated/tables/UserGood.class
+com/qiqu/jooq/common/generated/DefaultCatalog.class
+com/qiqu/jooq/common/generated/tables/records/GoodRecord.class
+com/qiqu/jooq/common/generated/Keys$ForeignKeys0.class
+com/qiqu/jooq/common/generated/tables/User.class
+com/qiqu/Main.class
+com/qiqu/jooq/common/generated/tables/records/UserRecord.class
+com/qiqu/jooq/common/generated/Tables.class
+com/qiqu/jooq/common/generated/Keys.class
+com/qiqu/jooq/common/generated/Foreignkey.class
+com/qiqu/jooq/common/generated/tables/records/UserGoodRecord.class
+com/qiqu/jooq/common/generated/Keys$UniqueKeys0.class
